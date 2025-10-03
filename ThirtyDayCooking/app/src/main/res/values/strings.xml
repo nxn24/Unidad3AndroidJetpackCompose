@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">30 Días de Cocina Peruana</string>
+    <string name="expand_button_content_description">Ver mas informacion sobre este plato.</string>
+
+    <!-- Días -->
+    <string name="day_1">Día 1</string>
+    <string name="day_2">Día 2</string>
+    <string name="day_3">Día 3</string>
+    <string name="day_4">Día 4</string>
+    <string name="day_5">Día 5</string>
+    <string name="day_6">Día 6</string>
+    <string name="day_7">Día 7</string>
+    <string name="day_8">Día 8</string>
+    <string name="day_9">Día 9</string>
+    <string name="day_10">Día 10</string>
+    <string name="day_11">Día 11</string>
+    <string name="day_12">Día 12</string>
+    <string name="day_13">Día 13</string>
+    <string name="day_14">Día 14</string>
+    <string name="day_15">Día 15</string>
+    <string name="day_16">Día 16</string>
+    <string name="day_17">Día 17</string>
+    <string name="day_18">Día 18</string>
+    <string name="day_19">Día 19</string>
+    <string name="day_20">Día 20</string>
+    <string name="day_21">Día 21</string>
+    <string name="day_22">Día 22</string>
+    <string name="day_23">Día 23</string>
+    <string name="day_24">Día 24</string>
+    <string name="day_25">Día 25</string>
+    <string name="day_26">Día 26</string>
+    <string name="day_27">Día 27</string>
+    <string name="day_28">Día 28</string>
+    <string name="day_29">Día 29</string>
+    <string name="day_30">Día 30</string>
+
+    <!-- Recetas Peruanas -->
+    <string name="recipe_title_1">Ceviche</string>
+    <string name="recipe_desc_1">Pescado marinado en limón con cebolla y ají limo</string>
+
+    <string name="recipe_title_2">Leche de Tigre</string>
+    <string name="recipe_desc_2">Caldo cítrico del ceviche con pescado y mariscos</string>
+
+    <string name="recipe_title_3">Salchipapas</string>
+    <string name="recipe_desc_3">Papas fritas con salchichas y salsas criollas</string>
+
+    <string name="recipe_title_4">Aeropuerto</string>
+    <string name="recipe_desc_4">Combinación de arroz chaufa con tallarines saltados</string>
+
+    <string name="recipe_title_5">Pescado a lo Macho</string>
+    <string name="recipe_desc_5">Filete de pescado bañado en salsa de mariscos</string>
+
+    <string name="recipe_title_6">Anticuchos</string>
+    <string name="recipe_desc_6">Brochetas de corazón sazonadas con ají panca</string>
+
+    <string name="recipe_title_7">Pollo a la Brasa</string>
+    <string name="recipe_desc_7">Pollo marinado y asado con papas y cremas</string>
+
+    <string name="recipe_title_8">Cuy Asado</string>
+    <string name="recipe_desc_8">Tradicional cuy horneado con hierbas andinas</string>
+
+    <string name="recipe_title_9">Arroz con Pato</string>
+    <string name="recipe_desc_9">Arroz verde con pato tierno y culantro</string>
+
+    <string name="recipe_title_10">Arroz con Mariscos</string>
+    <string name="recipe_desc_10">Arroz cremoso con mix de mariscos frescos</string>
+
+    <string name="recipe_title_11">Causa Rellena</string>
+    <string name="recipe_desc_11">Puré de papa amarilla con relleno de pollo o atún</string>
+
+    <string name="recipe_title_12">Arroz Chaufa</string>
+    <string name="recipe_desc_12">Arroz frito estilo chino-peruano con tortilla</string>
+
+    <string name="recipe_title_13">Lomo Saltado</string>
+    <string name="recipe_desc_13">Salteado de lomo con cebolla, tomate y papas fritas</string>
+
+    <string name="recipe_title_14">Tallarines Saltados</string>
+    <string name="recipe_desc_14">Fideos salteados con carne, verduras y salsa de soya</string>
+
+    <string name="recipe_title_15">Papa a la Huancaína</string>
+    <string name="recipe_desc_15">Papas con salsa cremosa de ají amarillo</string>
+
+    <string name="recipe_title_16">Tiraditos</string>
+    <string name="recipe_desc_16">Finas láminas de pescado con salsa tártara o ají</string>
+
+    <string name="recipe_title_17">Carapulcra</string>
+    <string name="recipe_desc_17">Guiso de papa seca con cerdo y maní</string>
+
+    <string name="recipe_title_18">Filete de Alpaca</string>
+    <string name="recipe_desc_18">Tierna carne de alpaca a la plancha con hierbas</string>
+
+    <string name="recipe_title_19">Papa Rellena</string>
+    <string name="recipe_desc_19">Puré de papa relleno de carne molida y frito</string>
+
+    <string name="recipe_title_20">Ají de Gallina</string>
+    <string name="recipe_desc_20">Gallina desmenuzada en salsa de ají amarillo</string>
+
+    <string name="recipe_title_21">Arroz con Pollo</string>
+    <string name="recipe_desc_21">Arroz verde con pollo tierno y verduras</string>
+
+    <string name="recipe_title_22">Seco de Pollo</string>
+    <string name="recipe_desc_22">Guiso de pollo con culantro y frejoles</string>
+
+    <string name="recipe_title_23">Chupe de Camarones</string>
+    <string name="recipe_desc_23">Sopa cremosa de camarones con huevo y queso</string>
+
+    <string name="recipe_title_24">Jalea de Mariscos</string>
+    <string name="recipe_desc_24">Mix de mariscos empanizados y fritos crujientes</string>
+
+    <string name="recipe_title_25">Choros a la Chalaca</string>
+    <string name="recipe_desc_25">Mejillones con cebolla, maíz y limón</string>
+
+    <string name="recipe_title_26">Rocoto Relleno</string>
+    <string name="recipe_desc_26">Rocoto sin picante relleno de carne y queso</string>
+
+    <string name="recipe_title_27">Charquicán</string>
+    <string name="recipe_desc_27">Guiso de charqui con maíz, papas y habas</string>
+
+    <string name="recipe_title_28">Lechón al Horno</string>
+    <string name="recipe_desc_28">Pierna de cerdo horneada con piel crujiente</string>
+
+    <string name="recipe_title_29">Picante a la Tacneña</string>
+    <string name="recipe_desc_29">Guiso picante de res con papas y chuño</string>
+
+    <string name="recipe_title_30">Ocopa</string>
+    <string name="recipe_desc_30">Papas con salsa de huacatay y maní arequipeño</string>
+</resources>
